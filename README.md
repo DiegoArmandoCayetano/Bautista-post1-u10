@@ -67,10 +67,17 @@ Archivo: ProductoService.java
 Descripción: Uso de @Autowired en atributo en lugar de inyección por constructor.
 Severidad: Minor
 
-Capturas del dashboard
+EVIDENCIAS
 
-Dashboard general SonarQube: docs/sonar-dashboard.png
-Detalle de bugs: docs/sonar-bugs.png
+![Evidencia Docker](docs/Evidencia de Docker funcionando.PNG)
+
+![Evidencia JaCoCo](docs/Evidencia de cobertura JaCoCo.PNG)
+
+![Dashboard general](docs/Evidencia del dashboard general.PNG)
+
+![Bugs 1](docs/sonar-bugs.PNG)
+
+![Bugs 2](docs/sonar-bugs_2.PNG)
 
 Estructura del proyecto
 
